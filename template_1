@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>WEB ESTUDOS</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+ 
+  <body style="background-color:#8db59f;">
+						<center><img class="logo" src="logo_pronta.png" alt="some text" width=500 height=110></center>
+    <div class="tab">
+      <input type="radio" name="tabs" id="tab1" checked>
+      <label for="tab1">Lógica</label>
+ 
+      <input type="radio" name="tabs" id="tab2">
+      <label for="tab2">PHP</label>
+ 
+      <input type="radio" name="tabs" id="tab3">
+      <label for="tab3">HTML+CSS+JAVASCRITP</label>
+ 
+      <input type="radio" name="tabs" id="tab4">
+      <label for="tab4">SQL</label>
+ 
+      <div class="tabs">
+        <div class="content">
+          <h2>CURSO DE LÓGICA DE PROGRAMAÇÃO</h2>
+          <p></p>
+		<br><a style="font-family:courier;"><h4>Requisitos</h4>
+						Ser capaz de entender logica<br>
+						<h4>Descrição</h4></br>
+						O curso visa iniciantes no mundo da programação o curso mostra o que sao variáveis, cálculos, estruturas de seleção e repetição, 
+						vetores e matrizes. 
+						Com muitos exercicios práticos e classicos
+						Variaveis - O que são, quais os tipos, como declarar e como Inicializar	Calculos - Aprenda a utilizar soma, subtração, multiplicação e 
+						divisao para o mundo da logica de programaão 
+						Estrutura de Decisão / Seleção - Aprenda a utilizar metodos de verificação de variaveis e atributos utilizando as condições > , <   , 
+						>= , =< , =, E , OU	Estrutura de REpetição - Aprenda a utilizar comandos de repetição para nao precisar copiar diversos codigos iguais
+						Vetores e Matrizes - são campos muito utilizados em outras linguagens de programação e voce ainda vai ouvir falar muito sobre essse 
+						assunto, aqui no curso
+						vamos dar uma introdução sobre poruqe o visualG é bem limitado nessa parte.<br>
+						Funções - Voce vai aprender a dividir os codigos de uma maneira clara e objetiva para depois conseguir explorar o mundo da programação 
+						trabalhando em equipe em grandes empresas..<br>
+						O curso é realmente para quem esta iniciando no mundo da programação e utilizei as 2h para que voce aprenda de uma maneira clara e 
+						objetiva os pontos da programação, e mais uma coisa, se voce é iniciante nao se preocupe a programação é realmente desafiadora e deve ser 
+						por isso que voce esta aqui, entao relaxe a pratique muito com todo o conteudo e atividades disponiveis.</a>
+       		
+			<br><br><a target="_blank" class="btn btn-purple" style="font-family:courier;" href=https://www.udemy.com/course/logica-de-programacao-visualg/>ACESSAR</a><br>
+
+	   </div>
+         
+		 <div class="content">
+          <h2>CURSO DE PHP</h2>
+          <p></p>
+		<br><a style="font-family:courier;">Seja bem vindo ao curso PHP4Noobs! O curso foi idealizado dentro do Github para que os iniciantes que estivessem 
+						vendo a minha live começassem a entender melhor o código que eu fazia e quase um ano depois decidi gravar 
+						esse curso em video.Você irá aprender o básico sobre sintaxe, operadores, funções, estruturas de condições e 
+						loops. A ideia do curso em si é mostrar como você pode abstrair cenários para poder melhorar seu entendimento 
+						sobre programação no geral e como as coisas funcionam.
+						<br>O PHP te dá infinitas possibilidades de criar scripts, fazendo literalmente tudo que você quiser e o curso 
+						mostra isso, tentando trazer novas ideias de como continuar no mundo da programação. A teoria atrás de cada aula 
+						vai te mostrar que o PHP está muito além de criação de servidores back-end, mas também é muito bom para criação 
+						de scripts automatizadores de qualquer coisa.<br>Vamos passar por todos os tópicos básicos em um primento momento, 
+						mostrando: comentários, variáveis, tipos de dados, operadores lógicos, operadores aritméticos, condicionais, funções, 
+						parametrização de CLI e como subir um servidor com PHP.<br></a>
+       		  <br><br><a target="_blank" class="btn btn-purple" style="font-family:courier;" href=https://www.udemy.com/course/php4noobs/>ACESSAR</a><br>
+
+	   </div>
+         
+		 <div class="content">
+          <h2>CURSO DE HTML + CSS + JAVASCRITP</h2>
+          <p></p>
+		<br><a style="font-family:courier;">Esse curso é voltado para o público iniciante e é 100% focado na prática!
+						Se você está iniciando os estudos
+						e possui interesse no desenvolvimento front-end, vem comigo e vamos desenvolver esses três projetos 
+						juntos!<br>
+						<h4>Objetivos do curso</h4>
+						Ajudar você a aperfeiçoar suas habilidades com HTML5, CSS3, Javascript (Utilizaremos apenas essas três 
+						tecnologias, sem nenhuma biblioteca ou framework).
+						Ajudar você a avançar no front-end.
+						<h4>Requisitos</h4>
+						Requisitos:
+						Entendimento básico de HTML, CSS e Javascript.
+						Lógica de programação.
+						Muita vontade de aprender!</a>
+       		  <br><br><a target="_blank" class="btn btn-purple" style="font-family:courier;" href=https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/>ACESSAR</a><br>
+
+	   </div>
+         
+		 
+		 <div class="content">
+          <h2>CURSO DE SQL</h2>
+          <p></p>
+		<br><a style="font-family:courier;">Seja bem-vindo ao curso SQL e MySQL fundamental - Aprenda tudo sobre CRUD e JOINs!
+						Este curso tem como objetivo ensinar os conceitos fundamentais dos bancos relacionais, e vamos dividí-lo em duas etapas.<br>
+						Primeiramente vamos aprender a instalar o banco de dados MySQL e também deixá-lo funcional no terminal, para que seja possível 
+						utilizá-lo posteriormente em seus outros projetos.<br>
+						Além disso, a instalação é uma etapa muito importante e que costuma ter algum tipo de problema, então vou esclarecer 
+						todos os possíveis erros que podem acontecer e também guiar por todos os passos 
+						necessários para ter o MySQL rodando na sua máquina.<br>
+						Depois teremos o curso voltado as queries de MySQL, onde você vai aprender diversos tópicos como:<br>
+						Gerenciamento de bancos de dados;<br><br>
+						Gerenciamento de tabelas;<br><br>
+						CRUD (Create, Read, Update e Delete);<br><br>
+						Introdução aos JOINs;<br><br>
+						Constraints;<br><br>
+						E muito mais!<br><br>
+						Neste curso você terá uma introdução completa a linguagem SQL, com abordagem prática e direto ao ponto, propondo 
+						desafios e também estimulando mais o seu pensamento em relação a modelagem de dados de bancos relacionais.
+						O grande objetivo que você vai alcançar ao concluir o curso é: poder realizar diversos tipos de consultas e outras 
+						queries com o MySQL, que é o SGBD mais utilizado atualmente em projetos web, e é claro que também terá capacidade 
+						para criar e gerenciar bancos e tabelas.
+					</a>
+       		  <br><br><a target="_blank" class="btn btn-purple" style="font-family:courier;" href=https://www.udemy.com/course/sql-e-mysql-fundamental-aprenda-tudo-sobre-crud-e-joins/>ACESSAR</a><br>
+
+	   </div>
+         
+		 
+       
+      </div>
+    </div>
+  </body>
+</html>
